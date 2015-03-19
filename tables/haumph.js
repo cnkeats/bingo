@@ -40,6 +40,7 @@ bingoList[1] = [
   { name: "2000+ viewers", types: ["normal"]},
   { name: "Paul spam", types: ["normal"]},
   { name: "Hosted by someone else", types: ["normal"]},
+  { name: "Chat confuses Paul, types: ["normal"]},
 ];
 
 $(function() { srl.bingo(bingoList, 5); });
