@@ -3,7 +3,7 @@ bingoList[1] = [
   { name: "LSV scroll wheel", types: ["normal"]},
   { name: "Drafting UW Control", types: ["normal"]},
   { name: "500 Pauls in one day", types: ["normal"]},
-  { name: "T-Shirt Sellout", types: ["normal"]},
+  { name: "T-Shirt ad", types: ["normal"]},
   { name: "Strawpoll", types: ["normal"]},
   { name: "MODO Crashes", types: ["normal"]},
   { name: "LSV Skypes in", types: ["normal"]},
