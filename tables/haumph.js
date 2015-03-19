@@ -25,7 +25,6 @@ bingoList[1] = [
   { name: "Win a match 2-0", types: ["normal"]},
   { name: "Opponent gets salty", types: ["normal"]},
   { name: "Paul gets salty", types: ["normal"]},
-  { name: "Record-high Paul streak", types: ["normal"]},
   { name: "Get very lucky", types: ["normal"]},
   { name: "Sick read", types: ["normal"]},
   { name: "Music with no commentary", types: ["normal"]},
@@ -40,7 +39,12 @@ bingoList[1] = [
   { name: "2000+ viewers", types: ["normal"]},
   { name: "Paul spam", types: ["normal"]},
   { name: "Hosted by someone else", types: ["normal"]},
-  { name: "Chat confuses Paul, types: ["normal"]},
+  { name: "Chat confuses Paul", types: ["normal"]},
+  { name: "Paul plays a viewer", types: ["normal"]},
+  { name: "Stream ends early", types: ["normal"]},
+  { name: "Xanbot goes on a rampage", types: ["normal"]},
+  { name: "Someone says your name in chat", types: ["normal"]},
+  { name: "Someone gets modded", types: ["normal"]},
 ];
 
 $(function() { srl.bingo(bingoList, 5); });
