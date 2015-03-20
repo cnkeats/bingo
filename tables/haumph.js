@@ -45,6 +45,10 @@ bingoList[1] = [
   { name: "Xanbot goes on a rampage", types: ["normal"]},
   { name: "Someone says your name in chat", types: ["normal"]},
   { name: "Someone gets modded", types: ["normal"]},
+  { name: "Cube draft", types: ["normal"]},
+  { name: "Flashback draft", types: ["normal"]},
+  { name: "Standard singleton", types: ["normal"]},
+  { name: "Paul talks about League of Legends", types: ["normal"]},
 ];
 
 $(function() { srl.bingo(bingoList, 5); });
